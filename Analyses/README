@@ -1,0 +1,8 @@
+Analyse_Peak.R
+- used to analyse individual apha peak 
+
+Analyses_power spectrum with T.ipynb
+- used to analyse frontal alpha power and alpha asymmetry 
+
+Analyses_coherence-with t statistic.ipynb
+- used to analyse coherence 
